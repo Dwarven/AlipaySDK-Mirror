@@ -1,8 +1,10 @@
 # AlipaySDK-Mirror
 
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/AlipaySDK-Mirror.svg)](https://img.shields.io/cocoapods/v/AlipaySDK-Mirror.svg)
+version - 15.6.8
+
+https://stackoverflow.com/users/4030310/
+
 [![Platform](https://img.shields.io/cocoapods/p/AlipaySDK-Mirror.svg)](http://cocoadocs.org/docsets/AlipaySDK-Mirror)
-[![Twitter](https://img.shields.io/badge/twitter-@DwarvenYang-blue.svg)](http://twitter.com/DwarvenYang)
 [![License](https://img.shields.io/cocoapods/l/AlipaySDK-Mirror.svg)](https://img.shields.io/cocoapods/l/AlipaySDK-Mirror.svg)
 
 A Mirror For AlipaySDK
