@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
   s.license               = { :type => 'MIT', :file => 'LICENSE' }
   s.author                = { 'Vaibhav M.' => 'vaibhav1don@gmail.com' }
-  s.social_media_url      = 'https://twitter.com/DwarvenYang'
+  s.social_media_url      = 'https://stackoverflow.com/users/4030310/vaibby'
   s.source                = { :git => 'https://github.com/vaibhav1don/AlipaySDK-Mirror.git', :tag => s.version }
   s.frameworks            = 'WebKit', 'SystemConfiguration', 'CoreTelephony', 'QuartzCore', 'CoreText', 'CoreGraphics', 'UIKit', 'Foundation','CFNetwork', 'CoreMotion'
   s.libraries             = 'z', 'c++'
